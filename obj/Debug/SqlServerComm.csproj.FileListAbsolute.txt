@@ -1,0 +1,9 @@
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\bin\Debug\SqlServerComm.dll
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\bin\Debug\SqlServerComm.pdb
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\bin\Debug\Dapper.dll
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\bin\Debug\Dapper.xml
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\obj\Debug\SqlServerComm.csproj.AssemblyReference.cache
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\obj\Debug\SqlServerComm.csproj.CoreCompileInputs.cache
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\obj\Debug\SqlServe.DB4213BF.Up2Date
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\obj\Debug\SqlServerComm.dll
+C:\Users\jlcor\Documents\GitHub\SqlServerComm\obj\Debug\SqlServerComm.pdb
